@@ -1,6 +1,6 @@
 ## Задача 1.1.    
 ### Создание объекта с помощью конструктора Object()  
-![image](https://user-images.githubusercontent.com/113675674/212024628-2e091e6a-ca0b-4c5f-87e4-3964c4665b43.png)  
+![image](https://user-images.githubusercontent.com/113675674/212486289-711c8e03-278d-45a7-8cd6-f7908c46513d.png)  
 
 
 ## Задача 2.2    
