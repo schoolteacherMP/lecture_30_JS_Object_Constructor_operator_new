@@ -29,5 +29,11 @@
 1. Создать объект "laptop" со свойствами "brand", "model" и "year".
 2. Добавить метод "turnOn", который выводит сообщение "The (brand) (model) is turning on." в консоль.
 3. Добавить метод "turnOff", который выводит сообщение "The (brand) (model) is turning off." в консоль.
-4. Вызвать методы "turnOn" и "turnOff" для объекта "laptop".
+4. Вызвать методы "turnOn" и "turnOff" для объекта "laptop".  
+
+## Задача 5.     
+###    
+
+## Задача 6.     
+###    
 
