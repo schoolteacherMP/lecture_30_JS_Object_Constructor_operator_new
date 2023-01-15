@@ -7,6 +7,8 @@
 И в конце выводить объект в консоль:  
 ![image](https://user-images.githubusercontent.com/113675674/212486482-6e73699e-04b5-4af1-9a5f-8c6bd8e86aff.png)  
 
+## Задача 1.2.  
+![image](https://user-images.githubusercontent.com/113675674/212527847-2f13765a-7d38-46a6-abcf-3629c25a0574.png)  
 
 
 ## Задача 2.2    
