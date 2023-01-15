@@ -27,3 +27,6 @@
 ![image](https://user-images.githubusercontent.com/113675674/212529330-9381a767-b6bd-4ca8-8704-78b45e57ba33.png) 
 
 
+## Задача 7.     
+###  Создайте калькулятор при помощи конструктора, new Calculator  
+![image](https://user-images.githubusercontent.com/113675674/212529503-0f3e054b-5f7c-4f99-9786-0abd5e96fd49.png)
