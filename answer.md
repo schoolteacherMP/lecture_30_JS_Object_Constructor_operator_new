@@ -19,11 +19,11 @@
 ![image](https://user-images.githubusercontent.com/113675674/212528163-09ce2d4d-e15b-44ff-b379-4d84be9a3022.png)  
 
 ## Задача 5.     
-###  функцию-конструктор  Person  
+###  функция-конструктор  Person  
 ![image](https://user-images.githubusercontent.com/113675674/212529223-d2a664bc-8894-43a3-87d4-799618c1c9b9.png)  
 
 ## Задача 6.     
-###  функцию-конструктор Book  
+###  функция-конструктор Book  
 ![image](https://user-images.githubusercontent.com/113675674/212529330-9381a767-b6bd-4ca8-8704-78b45e57ba33.png) 
 
 
