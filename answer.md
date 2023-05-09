@@ -29,4 +29,15 @@
 
 ## Задача 7.     
 ###  Создайте калькулятор при помощи конструктора, new Calculator  
-![image](https://user-images.githubusercontent.com/113675674/212529503-0f3e054b-5f7c-4f99-9786-0abd5e96fd49.png)
+![image](https://user-images.githubusercontent.com/113675674/212529503-0f3e054b-5f7c-4f99-9786-0abd5e96fd49.png)  
+
+
+## Задача 8.  
+![image](https://user-images.githubusercontent.com/113675674/237032971-62127cad-c25e-448b-9378-96cc8b612c02.png)  
+
+## Задача 9.  
+![image](https://user-images.githubusercontent.com/113675674/237032995-878be46b-4de7-468e-812a-d5ebb4111878.png)  
+
+## Задача 10.  
+![image](https://user-images.githubusercontent.com/113675674/237033023-b42bdc8c-5cc6-464f-a9b3-6a9ed0bddbc8.png)  
+
